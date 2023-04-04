@@ -1,0 +1,5 @@
+[config]
+
+name="Window Settings Plugin for Godot 4"
+binary_type="local"
+binary="WindowSettingsPluginForGodot4.release.aar"

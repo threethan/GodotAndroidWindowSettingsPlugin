@@ -1,0 +1,5 @@
+[config]
+
+name="WindowPlugin"
+binary_type="local"
+binary="WindowPlugin.release.aar"
