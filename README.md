@@ -10,6 +10,11 @@ This plugin enables you to access a number of useful Android window properties a
 * Address bars individually and at any time
 * Compatible with 9 years of android versions, hassle free\*
 
+## Example (screenshots from my game [Chesscourt Quest](https://play.google.com/store/apps/details?id=com.threethan.chesscourt2))
+<img src=https://user-images.githubusercontent.com/12588584/233720753-07fdd917-63b5-4080-bbe7-a3f3ef522a7e.png width="250" /><img src=https://user-images.githubusercontent.com/12588584/233720172-75297cb1-1d64-417d-bdee-9a4c9918a26d.png width="250" /><img src=https://user-images.githubusercontent.com/12588584/233720219-6e3ffbb0-ef95-4681-a3d6-afd941946d02.png width="250" />
+
+That game uses this plugin to programatically set the color of the statusbar and navigation bar to blend in with the background. The system automatically switches the navigation bar between light and dark.
+
 ## How to use
 1. In your Godot project, install android build template. You can follow the [official documentation](https://docs.godotengine.org/en/latest/getting_started/workflow/export/android_custom_build.html) for more detail.
 2. Go to Releases (on the right of the repo page) and download a build. You will need both the .gdap and .release.aar files!
